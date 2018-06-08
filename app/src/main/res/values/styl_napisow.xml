@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/tools">
+    <style name="Wielki_napis">
+        <item name="android:textSize">50dp</item>
+        <item name="android:textColor">#0000FF</item>item>
+    </style>
+</resources>
